@@ -1,0 +1,38 @@
+
+.text-center {
+    text-align: center;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.margin-leftandright {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.h1-background {
+    background-color: #333;
+    /* border-bottom-style: solid; */
+}
+
+.body-index {
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#btn-Add {
+    float: right;
+    margin-right: 5%
+}
+
+#title {
+    font-size: 2em;
+    text-decoration: underline;
+    margin-top: 1%;
+}
